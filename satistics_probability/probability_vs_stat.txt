@@ -1,0 +1,3 @@
+In probability we know parameters and predict outcomes/data of experiments
+
+In sataistcics we have data and estimate parameters
